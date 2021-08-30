@@ -1,41 +1,47 @@
 ---
-name: "🐛 Bug Report"
-about: Report a reproducible bug or regression.
-title: 'Bug: '
-labels: 'Status: Unconfirmed'
-
+name: Bug report
+about: Create a report to help us improve
 ---
 
-<!--
-  Please provide a clear and concise description of what the bug is. Include
-  screenshots if needed. Please test using the latest version of the relevant
-  React packages to make sure your issue has not already been fixed.
--->
+**Describe the bug**
+A clear and concise description of what the bug is.
 
-React version:
+**To Reproduce**
 
-## Steps To Reproduce
+_Please provide one or both of the following:_
 
-1.
-2.
+Code (If you have a branch somewhere that shows your issue) or link to codesandbox example. [Here's a base template for this library](https://codesandbox.io/s/w6xvqzno4w):
 
-<!--
-  Your bug will get fixed much faster if we can run your code and it doesn't
-  have dependencies other than React. Issues without reproduction steps or
-  code examples may be immediately closed as not actionable.
--->
+OR
 
-Link to code example:
+Steps to reproduce the behavior:
 
-<!--
-  Please provide a CodeSandbox (https://codesandbox.io/s/new), a link to a
-  repository on GitHub, or provide a minimal code example that reproduces the
-  problem. You may provide a screenshot of the application if you think it is
-  relevant to your bug report. Here are some tips for providing a minimal
-  example: https://stackoverflow.com/help/mcve.
--->
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
-## The current behavior
+**Expected behavior**
+A clear and concise description of what you expected to happen.
 
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
 
-## The expected behavior
+**Library Version**
+Please provide version of library in which this bug is occurring.
+
+**Desktop (please complete the following information):**
+
+* OS: [e.g. iOS]
+* Browser [e.g. chrome, safari]
+* Version [e.g. 22]
+
+**Smartphone (please complete the following information):**
+
+* Device: [e.g. iPhone6]
+* OS: [e.g. iOS8.1]
+* Browser [e.g. stock browser, safari]
+* Version [e.g. 22]
+
+**Additional context**
+Add any other context about the problem here.
